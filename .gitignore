@@ -1,3 +1,4 @@
 comments/
 __pycache__/
 myenv/
+*.swp
